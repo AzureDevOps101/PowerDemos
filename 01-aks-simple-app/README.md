@@ -73,6 +73,8 @@ az ad sp create-for-rbac --skip-assignment
 ```
 
 记录服务账号内容
+
+```json
 {
   "appId": "<appId>",
   "displayName": "azure-cli-2019-09-22-04-25-12",
@@ -80,6 +82,7 @@ az ad sp create-for-rbac --skip-assignment
   "password": "<password>",
   "tenant": "<tenant>"
 }
+```
 
 设置服务账号可以使用ACR上面的镜像
 
