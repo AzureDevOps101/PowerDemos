@@ -1,3 +1,4 @@
 # Local files
 *.local.md
+*.zip
 istio-1.1.3

@@ -5,7 +5,7 @@
 ## 演示脚本列表
 
 1. [创建AKS集群并部署应用](./01-aks-simple-app/README.md)
-2. [使用Azure DevOps, GitHub，AKS和Istio支撑微服务应用的持续交付](./01-azuredevops-aks-istio/README.md)
+2. [使用Azure DevOps, GitHub，AKS和Istio支撑微服务应用的持续交付](./02-azuredevops-aks-istio/README.md)
 3. Node.js application self-serviced CI/CD with GitHub, Azure DevOps and Azure App Services
 
 ## 问题和反馈
