@@ -41,7 +41,7 @@ docker-compose up -d
 ## azure cli登录
 az login
 ## 创建资源组
-az group create --name myResourceGroup --location eastasia
+az group create --name myResourceGroup --location southeastasia
 ## 创建ACR
 az acr create --resource-group myResourceGroup --name <acrname> --sku Basic
 ## 登录到ACR
